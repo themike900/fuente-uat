@@ -1,3 +1,4 @@
+---
 name: 🧪 Test Result
 description: Report the result of a test case — success or failure.
 title: "[Test Result] TC-ID – Short description"
