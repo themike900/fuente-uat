@@ -8,4 +8,4 @@ issue_templates:
 
   - name: 🧪 Test Result
     description: Report the result of a test case — success or failure.
-    file: test_result.md
+    file: test_result.yml
