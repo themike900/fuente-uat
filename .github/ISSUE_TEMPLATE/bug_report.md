@@ -1,3 +1,10 @@
+---
+name: 🐞 Bug Report
+about: Report a bug you encountered during testing.
+title: "[Bug] Short description"
+labels: ["bug"]
+assignees: []
+---
 ## 🐞 Bug Report
 
 **What did you try to do?**  
@@ -16,5 +23,3 @@
 (Browser / Apparaat)
 
 *You may write in English or Dutch. We’ll translate if needed.*
-
-
