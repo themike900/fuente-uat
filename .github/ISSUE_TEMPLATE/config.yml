@@ -1,0 +1,11 @@
+blank_issues_enabled: false
+contact_links: []
+
+issue_templates:
+  - name: 🐞 Bug Report
+    description: Report a bug you encountered during testing.
+    file: bug_report.md
+
+  - name: 🧪 Test Result
+    description: Report the result of a test case — success or failure.
+    file: test_result.md
