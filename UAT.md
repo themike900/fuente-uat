@@ -1,5 +1,9 @@
 # 🧪 User Acceptance Testing Overview
 
+## Customer-App
+
+For the tests of the customer app use https://shop.staging.fuente.io/
+
 ## ✅ What already works
 
 - [x] Login with email
